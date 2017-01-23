@@ -1,0 +1,358 @@
+loading annotations into memory...
+Done (t=1.00s)
+creating index...
+index created!
+0/40504 images missing
+Original dataset contains 40504 images
+Reduced dataset to 100 images
+Initialized caption experiment: 100 images, 500 captions
+Computing image descriptors
+Computing descriptors for images 0-99 of 100
+Generating captions for image 0/100Generating captions for image 1/100Generating captions for image 2/100Generating captions for image 3/100Generating captions for image 4/100Generating captions for image 5/100Generating captions for image 6/100Generating captions for image 7/100Generating captions for image 8/100Generating captions for image 9/100Generating captions for image 10/100Generating captions for image 11/100Generating captions for image 12/100Generating captions for image 13/100Generating captions for image 14/100Generating captions for image 15/100Generating captions for image 16/100Generating captions for image 17/100Generating captions for image 18/100Generating captions for image 19/100Generating captions for image 20/100Generating captions for image 21/100Generating captions for image 22/100Generating captions for image 23/100Generating captions for image 24/100Generating captions for image 25/100Generating captions for image 26/100Generating captions for image 27/100Generating captions for image 28/100Generating captions for image 29/100Generating captions for image 30/100Generating captions for image 31/100Generating captions for image 32/100Generating captions for image 33/100Generating captions for image 34/100Generating captions for image 35/100Generating captions for image 36/100Generating captions for image 37/100Generating captions for image 38/100Generating captions for image 39/100Generating captions for image 40/100Generating captions for image 41/100Generating captions for image 42/100Generating captions for image 43/100Generating captions for image 44/100Generating captions for image 45/100Generating captions for image 46/100Generating captions for image 47/100Generating captions for image 48/100Generating captions for image 49/100Generating captions for image 50/100Generating captions for image 51/100Generating captions for image 52/100Generating captions for image 53/100Generating captions for image 54/100Generating captions for image 55/100Generating captions for image 56/100Generating captions for image 57/100Generating captions for image 58/100Generating captions for image 59/100Generating captions for image 60/100Generating captions for image 61/100Generating captions for image 62/100Generating captions for image 63/100Generating captions for image 64/100Generating captions for image 65/100Generating captions for image 66/100Generating captions for image 67/100Generating captions for image 68/100Generating captions for image 69/100Generating captions for image 70/100Generating captions for image 71/100Generating captions for image 72/100Generating captions for image 73/100Generating captions for image 74/100Generating captions for image 75/100Generating captions for image 76/100Generating captions for image 77/100Generating captions for image 78/100Generating captions for image 79/100Generating captions for image 80/100Generating captions for image 81/100Generating captions for image 82/100Generating captions for image 83/100Generating captions for image 84/100Generating captions for image 85/100Generating captions for image 86/100Generating captions for image 87/100Generating captions for image 88/100Generating captions for image 89/100Generating captions for image 90/100Generating captions for image 91/100Generating captions for image 92/100Generating captions for image 93/100Generating captions for image 94/100Generating captions for image 95/100Generating captions for image 96/100Generating captions for image 97/100Generating captions for image 98/100Generating captions for image 99/100
+./data/coco/coco/images/val2014/COCO_val2014_000000063647.jpg
+>>>> : [ a living room has a red sofa and chair ]
+>> : [ A living room filled with furniture and a television. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000347145.jpg
+>>>> : [ the vase of flowers is sitting in the window ]
+>> : [ A giraffe standing on top of a lush green field. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000135900.jpg
+>>>> : [ a photo of a stove with omelet in one pan and ham in another ]
+>> : [ A close up of a pan of food on a stove. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000406976.jpg
+>>>> : [ a close up of two dogs sleeping on a couch ]
+>> : [ A cat sleeping on top of a couch. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000495984.jpg
+>>>> : [ a bathroom with a white toilet and sink ]
+>> : [ A bathroom with a toilet and a sink. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000146451.jpg
+>>>> : [ a fire hydrant stands on the sidewalk in between two poles ]
+>> : [ A fire hydrant on the side of the road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000117095.jpg
+>>>> : [ two men in solider uniforms run to an outhouse where a chicken sits on a toilet and a polar bear approaches from the other side of the outhouse ]
+>> : [ A woman standing in front of an open umbrella. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000464682.jpg
+>>>> : [ a plate with some sandwiches sitting on top of it ]
+>> : [ A plate of food on a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000029465.jpg
+>>>> : [ a small bird standing on the snowy ground ]
+>> : [ A bird sitting on top of a snow covered ground. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000514116.jpg
+>>>> : [ bathroom with an in the floor toilet bowl ]
+>> : [ A bathroom with a toilet and a sink. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000108408.jpg
+>>>> : [ a collection of suitcases fills the cramped space ]
+>> : [ A couple of suitcases sitting next to each other. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000065227.jpg
+>>>> : [ the girl is wearing a girl scout uniform and firing a tiny cannon between the fenceposts ]
+>> : [ A man is throwing a frisbee in a field. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000435187.jpg
+>>>> : [ man walking around side of truck with cows in back ]
+>> : [ A truck is parked on the side of the road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000018295.jpg
+>>>> : [ a commuter train with five cars riding on train tracks ]
+>> : [ A train traveling down train tracks next to a forest. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000417911.jpg
+>>>> : [ a man is drenched by the spray from the crest of a wave as he attempts to stand up on his surfboard ]
+>> : [ A man riding a wave on top of a surfboard. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000304389.jpg
+>>>> : [ a window in a house sitting over a counter top ]
+>> : [ A bathroom with a sink and a mirror. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000446359.jpg
+>>>> : [ a baby in a diaper with a birthday cake in front of him ,  with frosting on his hands ]
+>> : [ A small child is sitting on a bed. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000145651.jpg
+>>>> : [ a room with a bed a ceiling fan and a locker ]
+>> : [ A bathroom with a toilet , sink and mirror. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000029136.jpg
+>>>> : [ a bly is hitting a ball with a racket ]
+>> : [ A woman holding a tennis racquet on a tennis court. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000037728.jpg
+>>>> : [ a child holding some food over a plate ]
+>> : [ A man is sitting at a table eating food. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000286119.jpg
+>>>> : [ a person using a cell phone with their thumb ]
+>> : [ A person holding a cell phone in their hand. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000262242.jpg
+>>>> : [ a woman tries to scoop a tennis ball with her racket ]
+>> : [ Two people playing tennis on a tennis court. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000265433.jpg
+>>>> : [ a dog is sitting in the grass next to a toy ]
+>> : [ A dog with a frisbee in its mouth. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000305000.jpg
+>>>> : [ in asia ,  the outdoor market has plentiful fresh local produce ]
+>> : [ A woman standing next to a brown horse. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000260967.jpg
+>>>> : [ a light colored cat sits in the window ]
+>> : [ A brown and white cat sitting on top of a bed. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000051324.jpg
+>>>> : [ a woman sits on a bus talking on her phone ]
+>> : [ A woman sitting on a couch in a living room. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000036149.jpg
+>>>> : [ the men were sitting at the table playing a game of chess ]
+>> : [ A group of people sitting around a wooden table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000008277.jpg
+>>>> : [ a white plate topped wti chicken and a cup of guacamole ]
+>> : [ A close up of a plate of food with broccoli. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000073429.jpg
+>>>> : [ a group of men on a beach standing by several surfboards ]
+>> : [ A group of people standing on top of a snow covered slope. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000256309.jpg
+>>>> : [ a picture of a kitchen with some items on top of it ]
+>> : [ A microwave oven sitting on top of a kitchen counter. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000166096.jpg
+>>>> : [ a skyscraper rises high into the sky in front of a clock tower ]
+>> : [ A tall building with a clock on the top. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000314154.jpg
+>>>> : [ a young girl smiling as she holds the handle of her suitcase ]
+>> : [ A man in a blue shirt is holding a skateboard. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000531697.jpg
+>>>> : [ a computer desk has two computers and some books ]
+>> : [ A laptop computer sitting on top of a wooden desk. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000571865.jpg
+>>>> : [ a fire hydrant with a water hose connected to it ]
+>> : [ A fire hydrant sitting on the side of a road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000296393.jpg
+>>>> : [ a little boy holds up his umbrella while standing on the cobblestone walkway ]
+>> : [ A fire hydrant sitting on the side of a road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000219928.jpg
+>>>> : [ parking officials are riding beside a red bus ]
+>> : [ A couple of people standing next to each other. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000457003.jpg
+>>>> : [ a picture of a person playing in a tennis game ]
+>> : [ A woman standing on a tennis court holding a racquet. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000513072.jpg
+>>>> : [ a woman riding skateboard as she reaches for a ball ]
+>> : [ A person on a skateboard in the snow. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000028508.jpg
+>>>> : [ a group of three giraffes running in a field ]
+>> : [ A group of giraffe standing next to each other. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000293537.jpg
+>>>> : [ a man holding up a tooth brush as he yells at it ]
+>> : [ A woman holding a cell phone in her hand. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000390954.jpg
+>>>> : [ a piece of cake is sitting on a plate ]
+>> : [ A piece of chocolate cake on a plate. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000404263.jpg
+>>>> : [ a man riding a dirt bike on top of a sandy beach ]
+>> : [ A man riding a wave on top of a surfboard. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000126833.jpg
+>>>> : [ a man sitting on a bench near a pole with lights ]
+>> : [ A man riding a skateboard down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000167906.jpg
+>>>> : [ a toy robot is holding a bear and an umbrella ]
+>> : [ A person flying through the air while riding a snowboard. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000346089.jpg
+>>>> : [ two women are fussing with deserts on wooden table ]
+>> : [ A group of people sitting at a table eating pizza. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000190951.jpg
+>>>> : [ this is an image of a man with an umbrella ]
+>> : [ A man in a dark suit and tie. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000207826.jpg
+>>>> : [ a person reading a book while lying in a bed ]
+>> : [ A woman is sitting on a bed in a room. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000499937.jpg
+>>>> : [ a black cat sitting on a stool next to another cat on the floor ]
+>> : [ A black cat sitting on top of a suitcase. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000538414.jpg
+>>>> : [ three men are playing baseball on home base ]
+>> : [ A baseball player swinging a bat at a ball. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000285200.jpg
+>>>> : [ three vases sitting on top of a marble counter top ]
+>> : [ A table with a vase and flowers on it. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000165572.jpg
+>>>> : [ a red ,  double decked bus is on a city street as small cars pass it on the street ]
+>> : [ A double decker bus driving down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000532620.jpg
+>>>> : [ a stuffed toy giraffe eating a sandwich on a grass covered field .. ]
+>> : [ A stuffed animal sitting on top of a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000392481.jpg
+>>>> : [ a nice jet plane flying into some grey skies ]
+>> : [ An airplane is flying in the sky. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000185838.jpg
+>>>> : [ a man doing a trick on a skateboard at a skate park ]
+>> : [ A man riding a skateboard up the side of a ramp. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000360328.jpg
+>>>> : [ an elderly woman talking on her flip phone ]
+>> : [ A man in a white shirt talking on a cell phone. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000428812.jpg
+>>>> : [ a cooked pizza is sitting on a pan ]
+>> : [ A pizza sitting on top of a white plate. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000004688.jpg
+>>>> : [ there is a man outside flying a kite ]
+>> : [ A man throwing a frisbee in a park. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000574665.jpg
+>>>> : [ a cement truck is parked next to a wall ]
+>> : [ A white truck parked in a parking lot. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000258541.jpg
+>>>> : [ a man dressed in a shirt and tie standing in a lobby ]
+>> : [ A man in a suit and tie standing in a room. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000351823.jpg
+>>>> : [ a tennis player standing and looking across the court ]
+>> : [ A man in a red shirt is playing baseball. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000527023.jpg
+>>>> : [ tennis match in play with people in the stands watching ]
+>> : [ A baseball player swinging a bat at a ball. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000581781.jpg
+>>>> : [ a fruit stand display with bananas and kiwi ]
+>> : [ A bunch of bananas that are on a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000365655.jpg
+>>>> : [ one woman standing behind large specialized bus in mountains by glacier ]
+>> : [ A red and white bus driving down a road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000063104.jpg
+>>>> : [ a little boy in a green shirt holding a purple toy ]
+>> : [ A young boy holding a nintendo wii game controller. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000159203.jpg
+>>>> : [ a rusty green fire hydrant that is next to the curb ]
+>> : [ A green fire hydrant sitting on the side of a road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000387042.jpg
+>>>> : [ a man that is jumping with a racket in hand ]
+>> : [ A crowd of people playing a game of tennis. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000411472.jpg
+>>>> : [ a person riding a skate board past a concrete bench ]
+>> : [ A black and white photo of a man sitting on a bench. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000074573.jpg
+>>>> : [ a sidewalk with two parking meters in front of a planter ]
+>> : [ A laptop computer sitting on top of a desk. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000044677.jpg
+>>>> : [ some people at a table with some food and drinks ]
+>> : [ A woman sitting at a table with a plate of food. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000187194.jpg
+>>>> : [ a young girl who is sitting on a bed ]
+>> : [ A little girl that is laying down on a bed. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000204036.jpg
+>>>> : [ a bus and a truck parked in a messy lot ]
+>> : [ A group of people walking down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000558594.jpg
+>>>> : [ an intersection with traffic lights and a street sign ]
+>> : [ A traffic light and street sign on a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000579036.jpg
+>>>> : [ a double decker bus is driving past some skyscrapers ]
+>> : [ A red double decker bus driving down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000573113.jpg
+>>>> : [ a close up of a street sign with street designations and shoes ]
+>> : [ A couple of street signs on a pole. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000173083.jpg
+>>>> : [ a number of people with surf boards at a river of water ]
+>> : [ A group of people sitting on a bench. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000397639.jpg
+>>>> : [ a ewe and her kid in a field ]
+>> : [ A herd of sheep standing on top of a lush green field. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000041449.jpg
+>>>> : [ a man and a girl toss a ring frisbee to each other ]
+>> : [ A person on a motorcycle on a road. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000030222.jpg
+>>>> : [ a hotel hallway with suitcases sitting outside the rooms ]
+>> : [ A living room filled with furniture and a tv. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000501898.jpg
+>>>> : [ a women who is looking at a tennis racket ]
+>> : [ A woman holding a tennis racquet on a tennis court. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000347836.jpg
+>>>> : [ a close up of a person on a horse with a child on a horse ]
+>> : [ A couple of giraffe standing next to each other. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000578324.jpg
+>>>> : [ a computer with a large monitor sits on a table ]
+>> : [ A laptop computer sitting on top of a wooden desk. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000392915.jpg
+>>>> : [ a kitchen with a sink ,  dishwasher ,  crock pot and coffee maker ]
+>> : [ A kitchen with a stove and a microwave. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000436883.jpg
+>>>> : [ the green bus is on a street with other traffic ]
+>> : [ A green double decker bus driving down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000100604.jpg
+>>>> : [ a table display of stuffed bears and toadstools ]
+>> : [ A group of stuffed animals sitting on top of a shelf. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000009156.jpg
+>>>> : [ the lunch features a large loaded subway sandwich ]
+>> : [ A close up of a plate of food on a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000442231.jpg
+>>>> : [ a man is taking a big bite of a folded pizza in a cafe ]
+>> : [ A man sitting at a table with a plate of food. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000445567.jpg
+>>>> : [ a woman in an orange jacket standing near a jacket ]
+>> : [ A man sitting on a couch in a living room. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000302882.jpg
+>>>> : [ a man who is taking a picture with his cell phone ]
+>> : [ A woman brushing her teeth in a bathroom. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000012667.jpg
+>>>> : [ a banana placed on a phone on a table ]
+>> : [ A cell phone sitting on top of a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000368268.jpg
+>>>> : [ looking down at skies from chairlift and snow ]
+>> : [ A person on a snowboard in the snow. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000502852.jpg
+>>>> : [ a young child is pressing the keys on a laptop ]
+>> : [ A man sitting in front of a laptop computer. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000464858.jpg
+>>>> : [ kite flying ,  washington dc with smithsonian and washington PTBTokenizer tokenized 6230 tokens at 37070.74 tokens per second.
+PTBTokenizer tokenized 1128 tokens at 8920.11 tokens per second.
+monument in background ]
+>> : [ A group of people flying kites in a field. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000533548.jpg
+>>>> : [ a smiling man sits at a table with his laptop in a public library ]
+>> : [ A man sitting at a table with a laptop. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000352307.jpg
+>>>> : [ a large brown yak by a fence near a stand of trees ]
+>> : [ A couple of cows are standing in a field. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000036077.jpg
+>>>> : [ a woman in a bus with cars ahead ]
+>> : [ A woman sitting on a bench in front of a window. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000049413.jpg
+>>>> : [ a huge stainless steel cooking range with a hood in a salesroom ]
+>> : [ A kitchen with a stove , oven and a stove. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000578350.jpg
+>>>> : [ the giraffes are standing by the people outside eating ]
+>> : [ A man riding a skateboard down a street. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000288762.jpg
+>>>> : [ a fresh - looking salad on a square plate ]
+>> : [ A plate of food that is on a table. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000013904.jpg
+>>>> : [ photos show different moves and techniques in tennis ]
+>> : [ A man swinging a tennis racquet on a tennis court. ]
+./data/coco/coco/images/val2014/COCO_val2014_000000485237.jpg
+>>>> : [ two large jets facing each other at an airport ]
+>> : [ A large jetliner sitting on top of an airport tarmac. ]
+Dumping result to file: ./retrieval_cache/val/100_ims/lrcn_caffenet_iter_110000/beam5/generation_result.json
+Loading and preparing results...     
+DONE (t=0.03s)
+creating index...
+index created!
+>>> generation: <coco.COCO instance at 0x7f7fa8c361b8>
+tokenization...
+setting up scorers...
+computing Bleu score...
+{'reflen': 940, 'guess': [927, 827, 727, 627], 'testlen': 927, 'correct': [614, 300, 141, 71]}
+ratio: 0.986170212765
+Bleu_1: 0.653
+Bleu_2: 0.483
+Bleu_3: 0.355
+Bleu_4: 0.266
+computing METEOR score...
+METEOR: 0.219
+computing Rouge score...
+ROUGE_L: 0.497
+computing CIDEr score...
+CIDEr: 0.877
+Computing image descriptors
+Scoring captions for image 0/100Scoring captions for image 1/100Scoring captions for image 2/100Scoring captions for image 3/100Scoring captions for image 4/100Scoring captions for image 5/100Scoring captions for image 6/100Scoring captions for image 7/100Scoring captions for image 8/100Scoring captions for image 9/100Scoring captions for image 10/100Scoring captions for image 11/100Scoring captions for image 12/100Scoring captions for image 13/100Scoring captions for image 14/100Scoring captions for image 15/100Scoring captions for image 16/100Scoring captions for image 17/100Scoring captions for image 18/100Scoring captions for image 19/100Scoring captions for image 20/100Scoring captions for image 21/100Scoring captions for image 22/100Scoring captions for image 23/100Scoring captions for image 24/100Scoring captions for image 25/100Scoring captions for image 26/100Scoring captions for image 27/100Scoring captions for image 28/100Scoring captions for image 29/100Scoring captions for image 30/100Scoring captions for image 31/100Scoring captions for image 32/100Scoring captions for image 33/100Scoring captions for image 34/100Scoring captions for image 35/100Scoring captions for image 36/100Scoring captions for image 37/100Scoring captions for image 38/100Scoring captions for image 39/100Scoring captions for image 40/100Scoring captions for image 41/100Scoring captions for image 42/100Scoring captions for image 43/100Scoring captions for image 44/100Scoring captions for image 45/100Scoring captions for image 46/100Scoring captions for image 47/100Scoring captions for image 48/100Scoring captions for image 49/100Scoring captions for image 50/100Scoring captions for image 51/100Scoring captions for image 52/100Scoring captions for image 53/100Scoring captions for image 54/100Scoring captions for image 55/100Scoring captions for image 56/100Scoring captions for image 57/100Scoring captions for image 58/100Scoring captions for image 59/100Scoring captions for image 60/100Scoring captions for image 61/100Scoring captions for image 62/100Scoring captions for image 63/100Scoring captions for image 64/100Scoring captions for image 65/100Scoring captions for image 66/100Scoring captions for image 67/100Scoring captions for image 68/100Scoring captions for image 69/100Scoring captions for image 70/100Scoring captions for image 71/100Scoring captions for image 72/100Scoring captions for image 73/100Scoring captions for image 74/100Scoring captions for image 75/100Scoring captions for image 76/100Scoring captions for image 77/100Scoring captions for image 78/100Scoring captions for image 79/100Scoring captions for image 80/100Scoring captions for image 81/100Scoring captions for image 82/100Scoring captions for image 83/100Scoring captions for image 84/100Scoring captions for image 85/100Scoring captions for image 86/100Scoring captions for image 87/100Scoring captions for image 88/100Scoring captions for image 89/100Scoring captions for image 90/100Scoring captions for image 91/100Scoring captions for image 92/100Scoring captions for image 93/100Scoring captions for image 94/100Scoring captions for image 95/100Scoring captions for image 96/100Scoring captions for image 97/100Scoring captions for image 98/100Scoring captions for image 99/100
+Caption-to-image evaluation: computing recall for caption 0/500Caption-to-image evaluation: computing recall for caption 1/500Caption-to-image evaluation: computing recall for caption 2/500Caption-to-image evaluation: computing recall for caption 3/500Caption-to-image evaluation: computing recall for caption 4/500Caption-to-image evaluation: computing recall for caption 5/500Caption-to-image evaluation: computing recall for caption 6/500Caption-to-image evaluation: computing recall for caption 7/500Caption-to-image evaluation: computing recall for caption 8/500Caption-to-image evaluation: computing recall for caption 9/500Caption-to-image evaluation: computing recall for caption 10/500Caption-to-image evaluation: computing recall for caption 11/500Caption-to-image evaluation: computing recall for caption 12/500Caption-to-image evaluation: computing recall for caption 13/500Caption-to-image evaluation: computing recall for caption 14/500Caption-to-image evaluation: computing recall for caption 15/500Caption-to-image evaluation: computing recall for caption 16/500Caption-to-image evaluation: computing recall for caption 17/500Caption-to-image evaluation: computing recall for caption 18/500Caption-to-image evaluation: computing recall for caption 19/500Caption-to-image evaluation: computing recall for caption 20/500Caption-to-image evaluation: computing recall for caption 21/500Caption-to-image evaluation: computing recall for caption 22/500Caption-to-image evaluation: computing recall for caption 23/500Caption-to-image evaluation: computing recall for caption 24/500Caption-to-image evaluation: computing recall for caption 25/500Caption-to-image evaluation: computing recall for caption 26/500Caption-to-image evaluation: computing recall for caption 27/500Caption-to-image evaluation: computing recall for caption 28/500Caption-to-image evaluation: computing recall for caption 29/500Caption-to-image evaluation: computing recall for caption 30/500Caption-to-image evaluation: computing recall for caption 31/500Caption-to-image evaluation: computing recall for caption 32/500Caption-to-image evaluation: computing recall for caption 33/500Caption-to-image evaluation: computing recall for caption 34/500Caption-to-image evaluation: computing recall for caption 35/500Caption-to-image evaluation: computing recall for caption 36/500Caption-to-image evaluation: computing recall for caption 37/500Caption-to-image evaluation: computing recall for caption 38/500Caption-to-image evaluation: computing recall for caption 39/500Caption-to-image evaluation: computing recall for caption 40/500Caption-to-image evaluation: computing recall for caption 41/500Caption-to-image evaluation: computing recall for caption 42/500Caption-to-image evaluation: computing recall for caption 43/500Caption-to-image evaluation: computing recall for caption 44/500Caption-to-image evaluation: computing recall for caption 45/500Caption-to-image evaluation: computing recall for caption 46/500Caption-to-image evaluation: computing recall for caption 47/500Caption-to-image evaluation: computing recall for caption 48/500Caption-to-image evaluation: computing recall for caption 49/500Caption-to-image evaluation: computing recall for caption 50/500Caption-to-image evaluation: computing recall for caption 51/500Caption-to-image evaluation: computing recall for caption 52/500Caption-to-image evaluation: computing recall for caption 53/500Caption-to-image evaluation: computing recall for caption 54/500Caption-to-image evaluation: computing recall for caption 55/500Caption-to-image evaluation: computing recall for caption 56/500Caption-to-image evaluation: computing recall for caption 57/500Caption-to-image evaluation: computing recall for caption 58/500Caption-to-image evaluation: computing recall for caption 59/500Caption-to-image evaluation: computing recall for caption 60/500Caption-to-image evaluation: computing recall for caption 61/500Caption-to-image evaluation: computing recall for caption 62/500Caption-to-image evaluation: computing recall for caption 63/500Caption-to-image evaluation: computing recall for caption 64/500Caption-to-image evaluation: computing recall for caption 65/500Caption-to-image evaluation: computing recall for caption 66/500Caption-to-image evaluation: computing recall for caption 67/500Caption-to-image evaluation: computing recall for caption 68/500Caption-to-image evaluation: computing recall for caption 69/500Caption-to-image evaluation: computing recall for caption 70/500Caption-to-image evaluation: computing recall for caption 71/500Caption-to-image evaluation: computing recall for caption 72/500Caption-to-image evaluation: computing recall for caption 73/500Caption-to-image evaluation: computing recall for caption 74/500Caption-to-image evaluation: computing recall for caption 75/500Caption-to-image evaluation: computing recall for caption 76/500Caption-to-image evaluation: computing recall for caption 77/500Caption-to-image evaluation: computing recall for caption 78/500Caption-to-image evaluation: computing recall for caption 79/500Caption-to-image evaluation: computing recall for caption 80/500Caption-to-image evaluation: computing recall for caption 81/500Caption-to-image evaluation: computing recall for caption 82/500Caption-to-image evaluation: computing recall for caption 83/500Caption-to-image evaluation: computing recall for caption 84/500Caption-to-image evaluation: computing recall for caption 85/500Caption-to-image evaluation: computing recall for caption 86/500Caption-to-image evaluation: computing recall for caption 87/500Caption-to-image evaluation: computing recall for caption 88/500Caption-to-image evaluation: computing recall for caption 89/500Caption-to-image evaluation: computing recall for caption 90/500Caption-to-image evaluation: computing recall for caption 91/500Caption-to-image evaluation: computing recall for caption 92/500Caption-to-image evaluation: computing recall for caption 93/500Caption-to-image evaluation: computing recall for caption 94/500Caption-to-image evaluation: computing recall for caption 95/500Caption-to-image evaluation: computing recall for caption 96/500Caption-to-image evaluation: computing recall for caption 97/500Caption-to-image evaluation: computing recall for caption 98/500Caption-to-image evaluation: computing recall for caption 99/500Caption-to-image evaluation: computing recall for caption 100/500Caption-to-image evaluation: computing recall for caption 101/500Caption-to-image evaluation: computing recall for caption 102/500Caption-to-image evaluation: computing recall for caption 103/500Caption-to-image evaluation: computing recall for caption 104/500Caption-to-image evaluation: computing recall for caption 105/500Caption-to-image evaluation: computing recall for caption 106/500Caption-to-image evaluation: computing recall for caption 107/500Caption-to-image evaluation: computing recall for caption 108/500Caption-to-image evaluation: computing recall for caption 109/500Caption-to-image evaluation: computing recall for caption 110/500Caption-to-image evaluation: computing recall for caption 111/500Caption-to-image evaluation: computing recall for caption 112/500Caption-to-image evaluation: computing recall for caption 113/500Caption-to-image evaluation: computing recall for caption 114/500Caption-to-image evaluation: computing recall for caption 115/500Caption-to-image evaluation: computing recall for caption 116/500Caption-to-image evaluation: computing recall for caption 117/500Caption-to-image evaluation: computing recall for caption 118/500Caption-to-image evaluation: computing recall for caption 119/500Caption-to-image evaluation: computing recall for caption 120/500Caption-to-image evaluation: computing recall for caption 121/500Caption-to-image evaluation: computing recall for caption 122/500Caption-to-image evaluation: computing recall for caption 123/500Caption-to-image evaluation: computing recall for caption 124/500Caption-to-image evaluation: computing recall for caption 125/500Caption-to-image evaluation: computing recall for caption 126/500Caption-to-image evaluation: computing recall for caption 127/500Caption-to-image evaluation: computing recall for caption 128/500Caption-to-image evaluation: computing recall for caption 129/500Caption-to-image evaluation: computing recall for caption 130/500Caption-to-image evaluation: computing recall for caption 131/500Caption-to-image evaluation: computing recall for caption 132/500Caption-to-image evaluation: computing recall for caption 133/500Caption-to-image evaluation: computing recall for caption 134/500Caption-to-image evaluation: computing recall for caption 135/500Caption-to-image evaluation: computing recall for caption 136/500Caption-to-image evaluation: computing recall for caption 137/500Caption-to-image evaluation: computing recall for caption 138/500Caption-to-image evaluation: computing recall for caption 139/500Caption-to-image evaluation: computing recall for caption 140/500Caption-to-image evaluation: computing recall for caption 141/500Caption-to-image evaluation: computing recall for caption 142/500Caption-to-image evaluation: computing recall for caption 143/500Caption-to-image evaluation: computing recall for caption 144/500Caption-to-image evaluation: computing recall for caption 145/500Caption-to-image evaluation: computing recall for caption 146/500Caption-to-image evaluation: computing recall for caption 147/500Caption-to-image evaluation: computing recall for caption 148/500Caption-to-image evaluation: computing recall for caption 149/500Caption-to-image evaluation: computing recall for caption 150/500Caption-to-image evaluation: computing recall for caption 151/500Caption-to-image evaluation: computing recall for caption 152/500Caption-to-image evaluation: computing recall for caption 153/500Caption-to-image evaluation: computing recall for caption 154/500Caption-to-image evaluation: computing recall for caption 155/500Caption-to-image evaluation: computing recall for caption 156/500Caption-to-image evaluation: computing recall for caption 157/500Caption-to-image evaluation: computing recall for caption 158/500Caption-to-image evaluation: computing recall for caption 159/500Caption-to-image evaluation: computing recall for caption 160/500Caption-to-image evaluation: computing recall for caption 161/500Caption-to-image evaluation: computing recall for caption 162/500Caption-to-image evaluation: computing recall for caption 163/500Caption-to-image evaluation: computing recall for caption 164/500Caption-to-image evaluation: computing recall for caption 165/500Caption-to-image evaluation: computing recall for caption 166/500Caption-to-image evaluation: computing recall for caption 167/500Caption-to-image evaluation: computing recall for caption 168/500Caption-to-image evaluation: computing recall for caption 169/500Caption-to-image evaluation: computing recall for caption 170/500Caption-to-image evaluation: computing recall for caption 171/500Caption-to-image evaluation: computing recall for caption 172/500Caption-to-image evaluation: computing recall for caption 173/500Caption-to-image evaluation: computing recall for caption 174/500Caption-to-image evaluation: computing recall for caption 175/500Caption-to-image evaluation: computing recall for caption 176/500Caption-to-image evaluation: computing recall for caption 177/500Caption-to-image evaluation: computing recall for caption 178/500Caption-to-image evaluation: computing recall for caption 179/500Caption-to-image evaluation: computing recall for caption 180/500Caption-to-image evaluation: computing recall for caption 181/500Caption-to-image evaluation: computing recall for caption 182/500Caption-to-image evaluation: computing recall for caption 183/500Caption-to-image evaluation: computing recall for caption 184/500Caption-to-image evaluation: computing recall for caption 185/500Caption-to-image evaluation: computing recall for caption 186/500Caption-to-image evaluation: computing recall for caption 187/500Caption-to-image evaluation: computing recall for caption 188/500Caption-to-image evaluation: computing recall for caption 189/500Caption-to-image evaluation: computing recall for caption 190/500Caption-to-image evaluation: computing recall for caption 191/500Caption-to-image evaluation: computing recall for caption 192/500Caption-to-image evaluation: computing recall for caption 193/500Caption-to-image evaluation: computing recall for caption 194/500Caption-to-image evaluation: computing recall for caption 195/500Caption-to-image evaluation: computing recall for caption 196/500Caption-to-image evaluation: computing recall for caption 197/500Caption-to-image evaluation: computing recall for caption 198/500Caption-to-image evaluation: computing recall for caption 199/500Caption-to-image evaluation: computing recall for caption 200/500Caption-to-image evaluation: computing recall for caption 201/500Caption-to-image evaluation: computing recall for caption 202/500Caption-to-image evaluation: computing recall for caption 203/500Caption-to-image evaluation: computing recall for caption 204/500Caption-to-image evaluation: computing recall for caption 205/500Caption-to-image evaluation: computing recall for caption 206/500Caption-to-image evaluation: computing recall for caption 207/500Caption-to-image evaluation: computing recall for caption 208/500Caption-to-image evaluation: computing recall for caption 209/500Caption-to-image evaluation: computing recall for caption 210/500Caption-to-image evaluation: computing recall for caption 211/500Caption-to-image evaluation: computing recall for caption 212/500Caption-to-image evaluation: computing recall for caption 213/500Caption-to-image evaluation: computing recall for caption 214/500Caption-to-image evaluation: computing recall for caption 215/500Caption-to-image evaluation: computing recall for caption 216/500Caption-to-image evaluation: computing recall for caption 217/500Caption-to-image evaluation: computing recall for caption 218/500Caption-to-image evaluation: computing recall for caption 219/500Caption-to-image evaluation: computing recall for caption 220/500Caption-to-image evaluation: computing recall for caption 221/500Caption-to-image evaluation: computing recall for caption 222/500Caption-to-image evaluation: computing recall for caption 223/500Caption-to-image evaluation: computing recall for caption 224/500Caption-to-image evaluation: computing recall for caption 225/500Caption-to-image evaluation: computing recall for caption 226/500Caption-to-image evaluation: computing recall for caption 227/500Caption-to-image evaluation: computing recall for caption 228/500Caption-to-image evaluation: computing recall for caption 229/500Caption-to-image evaluation: computing recall for caption 230/500Caption-to-image evaluation: computing recall for caption 231/500Caption-to-image evaluation: computing recall for caption 232/500Caption-to-image evaluation: computing recall for caption 233/500Caption-to-image evaluation: computing recall for caption 234/500Caption-to-image evaluation: computing recall for caption 235/500Caption-to-image evaluation: computing recall for caption 236/500Caption-to-image evaluation: computing recall for caption 237/500Caption-to-image evaluation: computing recall for caption 238/500Caption-to-image evaluation: computing recall for caption 239/500Caption-to-image evaluation: computing recall for caption 240/500Caption-to-image evaluation: computing recall for caption 241/500Caption-to-image evaluation: computing recall for caption 242/500Caption-to-image evaluation: computing recall for caption 243/500Caption-to-image evaluation: computing recall for caption 244/500Caption-to-image evaluation: computing recall for caption 245/500Caption-to-image evaluation: computing recall for caption 246/500Caption-to-image evaluation: computing recall for caption 247/500Caption-to-image evaluation: computing recall for caption 248/500Caption-to-image evaluation: computing recall for caption 249/500Caption-to-image evaluation: computing recall for caption 250/500Caption-to-image evaluation: computing recall for caption 251/500Caption-to-image evaluation: computing recall for caption 252/500Caption-to-image evaluation: computing recall for caption 253/500Caption-to-image evaluation: computing recall for caption 254/500Caption-to-image evaluation: computing recall for caption 255/500Caption-to-image evaluation: computing recall for caption 256/500Caption-to-image evaluation: computing recall for caption 257/500Caption-to-image evaluation: computing recall for caption 258/500Caption-to-image evaluation: computing recall for caption 259/500Caption-to-image evaluation: computing recall for caption 260/500Caption-to-image evaluation: computing recall for caption 261/500Caption-to-image evaluation: computing recall for caption 262/500Caption-to-image evaluation: computing recall for caption 263/500Caption-to-image evaluation: computing recall for caption 264/500Caption-to-image evaluation: computing recall for caption 265/500Caption-to-image evaluation: computing recall for caption 266/500Caption-to-image evaluation: computing recall for caption 267/500Caption-to-image evaluation: computing recall for caption 268/500Caption-to-image evaluation: computing recall for caption 269/500Caption-to-image evaluation: computing recall for caption 270/500Caption-to-image evaluation: computing recall for caption 271/500Caption-to-image evaluation: computing recall for caption 272/500Caption-to-image evaluation: computing recall for caption 273/500Caption-to-image evaluation: computing recall for caption 274/500Caption-to-image evaluation: computing recall for caption 275/500Caption-to-image evaluation: computing recall for caption 276/500Caption-to-image evaluation: computing recall for caption 277/500Caption-to-image evaluation: computing recall for caption 278/500Caption-to-image evaluation: computing recall for caption 279/500Caption-to-image evaluation: computing recall for caption 280/500Caption-to-image evaluation: computing recall for caption 281/500Caption-to-image evaluation: computing recall for caption 282/500Caption-to-image evaluation: computing recall for caption 283/500Caption-to-image evaluation: computing recall for caption 284/500Caption-to-image evaluation: computing recall for caption 285/500Caption-to-image evaluation: computing recall for caption 286/500Caption-to-image evaluation: computing recall for caption 287/500Caption-to-image evaluation: computing recall for caption 288/500Caption-to-image evaluation: computing recall for caption 289/500Caption-to-image evaluation: computing recall for caption 290/500Caption-to-image evaluation: computing recall for caption 291/500Caption-to-image evaluation: computing recall for caption 292/500Caption-to-image evaluation: computing recall for caption 293/500Caption-to-image evaluation: computing recall for caption 294/500Caption-to-image evaluation: computing recall for caption 295/500Caption-to-image evaluation: computing recall for caption 296/500Caption-to-image evaluation: computing recall for caption 297/500Caption-to-image evaluation: computing recall for caption 298/500Caption-to-image evaluation: computing recall for caption 299/500Caption-to-image evaluation: computing recall for caption 300/500Caption-to-image evaluation: computing recall for caption 301/500Caption-to-image evaluation: computing recall for caption 302/500Caption-to-image evaluation: computing recall for caption 303/500Caption-to-image evaluation: computing recall for caption 304/500Caption-to-image evaluation: computing recall for caption 305/500Caption-to-image evaluation: computing recall for caption 306/500Caption-to-image evaluation: computing recall for caption 307/500Caption-to-image evaluation: computing recall for caption 308/500Caption-to-image evaluation: computing recall for caption 309/500Caption-to-image evaluation: computing recall for caption 310/500Caption-to-image evaluation: computing recall for caption 311/500Caption-to-image evaluation: computing recall for caption 312/500Caption-to-image evaluation: computing recall for caption 313/500Caption-to-image evaluation: computing recall for caption 314/500Caption-to-image evaluation: computing recall for caption 315/500Caption-to-image evaluation: computing recall for caption 316/500Caption-to-image evaluation: computing recall for caption 317/500Caption-to-image evaluation: computing recall for caption 318/500Caption-to-image evaluation: computing recall for caption 319/500Caption-to-image evaluation: computing recall for caption 320/500Caption-to-image evaluation: computing recall for caption 321/500Caption-to-image evaluation: computing recall for caption 322/500Caption-to-image evaluation: computing recall for caption 323/500Caption-to-image evaluation: computing recall for caption 324/500Caption-to-image evaluation: computing recall for caption 325/500Caption-to-image evaluation: computing recall for caption 326/500Caption-to-image evaluation: computing recall for caption 327/500Caption-to-image evaluation: computing recall for caption 328/500Caption-to-image evaluation: computing recall for caption 329/500Caption-to-image evaluation: computing recall for caption 330/500Caption-to-image evaluation: computing recall for caption 331/500Caption-to-image evaluation: computing recall for caption 332/500Caption-to-image evaluation: computing recall for caption 333/500Caption-to-image evaluation: computing recall for caption 334/500Caption-to-image evaluation: computing recall for caption 335/500Caption-to-image evaluation: computing recall for caption 336/500Caption-to-image evaluation: computing recall for caption 337/500Caption-to-image evaluation: computing recall for caption 338/500Caption-to-image evaluation: computing recall for caption 339/500Caption-to-image evaluation: computing recall for caption 340/500Caption-to-image evaluation: computing recall for caption 341/500Caption-to-image evaluation: computing recall for caption 342/500Caption-to-image evaluation: computing recall for caption 343/500Caption-to-image evaluation: computing recall for caption 344/500Caption-to-image evaluation: computing recall for caption 345/500Caption-to-image evaluation: computing recall for caption 346/500Caption-to-image evaluation: computing recall for caption 347/500Caption-to-image evaluation: computing recall for caption 348/500Caption-to-image evaluation: computing recall for caption 349/500Caption-to-image evaluation: computing recall for caption 350/500Caption-to-image evaluation: computing recall for caption 351/500Caption-to-image evaluation: computing recall for caption 352/500Caption-to-image evaluation: computing recall for caption 353/500Caption-to-image evaluation: computing recall for caption 354/500Caption-to-image evaluation: computing recall for caption 355/500Caption-to-image evaluation: computing recall for caption 356/500Caption-to-image evaluation: computing recall for caption 357/500Caption-to-image evaluation: computing recall for caption 358/500Caption-to-image evaluation: computing recall for caption 359/500Caption-to-image evaluation: computing recall for caption 360/500Caption-to-image evaluation: computing recall for caption 361/500Caption-to-image evaluation: computing recall for caption 362/500Caption-to-image evaluation: computing recall for caption 363/500Caption-to-image evaluation: computing recall for caption 364/500Caption-to-image evaluation: computing recall for caption 365/500Caption-to-image evaluation: computing recall for caption 366/500Caption-to-image evaluation: computing recall for caption 367/500Caption-to-image evaluation: computing recall for caption 368/500Caption-to-image evaluation: computing recall for caption 369/500Caption-to-image evaluation: computing recall for caption 370/500Caption-to-image evaluation: computing recall for caption 371/500Caption-to-image evaluation: computing recall for caption 372/500Caption-to-image evaluation: computing recall for caption 373/500Caption-to-image evaluation: computing recall for caption 374/500Caption-to-image evaluation: computing recall for caption 375/500Caption-to-image evaluation: computing recall for caption 376/500Caption-to-image evaluation: computing recall for caption 377/500Caption-to-image evaluation: computing recall for caption 378/500Caption-to-image evaluation: computing recall for caption 379/500Caption-to-image evaluation: computing recall for caption 380/500Caption-to-image evaluation: computing recall for caption 381/500Caption-to-image evaluation: computing recall for caption 382/500Caption-to-image evaluation: computing recall for caption 383/500Caption-to-image evaluation: computing recall for caption 384/500Caption-to-image evaluation: computing recall for caption 385/500Caption-to-image evaluation: computing recall for caption 386/500Caption-to-image evaluation: computing recall for caption 387/500Caption-to-image evaluation: computing recall for caption 388/500Caption-to-image evaluation: computing recall for caption 389/500Caption-to-image evaluation: computing recall for caption 390/500Caption-to-image evaluation: computing recall for caption 391/500Caption-to-image evaluation: computing recall for caption 392/500Caption-to-image evaluation: computing recall for caption 393/500Caption-to-image evaluation: computing recall for caption 394/500Caption-to-image evaluation: computing recall for caption 395/500Caption-to-image evaluation: computing recall for caption 396/500Caption-to-image evaluation: computing recall for caption 397/500Caption-to-image evaluation: computing recall for caption 398/500Caption-to-image evaluation: computing recall for caption 399/500Caption-to-image evaluation: computing recall for caption 400/500Caption-to-image evaluation: computing recall for caption 401/500Caption-to-image evaluation: computing recall for caption 402/500Caption-to-image evaluation: computing recall for caption 403/500Caption-to-image evaluation: computing recall for caption 404/500Caption-to-image evaluation: computing recall for caption 405/500Caption-to-image evaluation: computing recall for caption 406/500Caption-to-image evaluation: computing recall for caption 407/500Caption-to-image evaluation: computing recall for caption 408/500Caption-to-image evaluation: computing recall for caption 409/500Caption-to-image evaluation: computing recall for caption 410/500Caption-to-image evaluation: computing recall for caption 411/500Caption-to-image evaluation: computing recall for caption 412/500Caption-to-image evaluation: computing recall for caption 413/500Caption-to-image evaluation: computing recall for caption 414/500Caption-to-image evaluation: computing recall for caption 415/500Caption-to-image evaluation: computing recall for caption 416/500Caption-to-image evaluation: computing recall for caption 417/500Caption-to-image evaluation: computing recall for caption 418/500Caption-to-image evaluation: computing recall for caption 419/500Caption-to-image evaluation: computing recall for caption 420/500Caption-to-image evaluation: computing recall for caption 421/500Caption-to-image evaluation: computing recall for caption 422/500Caption-to-image evaluation: computing recall for caption 423/500Caption-to-image evaluation: computing recall for caption 424/500Caption-to-image evaluation: computing recall for caption 425/500Caption-to-image evaluation: computing recall for caption 426/500Caption-to-image evaluation: computing recall for caption 427/500Caption-to-image evaluation: computing recall for caption 428/500Caption-to-image evaluation: computing recall for caption 429/500Caption-to-image evaluation: computing recall for caption 430/500Caption-to-image evaluation: computing recall for caption 431/500Caption-to-image evaluation: computing recall for caption 432/500Caption-to-image evaluation: computing recall for caption 433/500Caption-to-image evaluation: computing recall for caption 434/500Caption-to-image evaluation: computing recall for caption 435/500Caption-to-image evaluation: computing recall for caption 436/500Caption-to-image evaluation: computing recall for caption 437/500Caption-to-image evaluation: computing recall for caption 438/500Caption-to-image evaluation: computing recall for caption 439/500Caption-to-image evaluation: computing recall for caption 440/500Caption-to-image evaluation: computing recall for caption 441/500Caption-to-image evaluation: computing recall for caption 442/500Caption-to-image evaluation: computing recall for caption 443/500Caption-to-image evaluation: computing recall for caption 444/500Caption-to-image evaluation: computing recall for caption 445/500Caption-to-image evaluation: computing recall for caption 446/500Caption-to-image evaluation: computing recall for caption 447/500Caption-to-image evaluation: computing recall for caption 448/500Caption-to-image evaluation: computing recall for caption 449/500Caption-to-image evaluation: computing recall for caption 450/500Caption-to-image evaluation: computing recall for caption 451/500Caption-to-image evaluation: computing recall for caption 452/500Caption-to-image evaluation: computing recall for caption 453/500Caption-to-image evaluation: computing recall for caption 454/500Caption-to-image evaluation: computing recall for caption 455/500Caption-to-image evaluation: computing recall for caption 456/500Caption-to-image evaluation: computing recall for caption 457/500Caption-to-image evaluation: computing recall for caption 458/500Caption-to-image evaluation: computing recall for caption 459/500Caption-to-image evaluation: computing recall for caption 460/500Caption-to-image evaluation: computing recall for caption 461/500Caption-to-image evaluation: computing recall for caption 462/500Caption-to-image evaluation: computing recall for caption 463/500Caption-to-image evaluation: computing recall for caption 464/500Caption-to-image evaluation: computing recall for caption 465/500Caption-to-image evaluation: computing recall for caption 466/500Caption-to-image evaluation: computing recall for caption 467/500Caption-to-image evaluation: computing recall for caption 468/500Caption-to-image evaluation: computing recall for caption 469/500Caption-to-image evaluation: computing recall for caption 470/500Caption-to-image evaluation: computing recall for caption 471/500Caption-to-image evaluation: computing recall for caption 472/500Caption-to-image evaluation: computing recall for caption 473/500Caption-to-image evaluation: computing recall for caption 474/500Caption-to-image evaluation: computing recall for caption 475/500Caption-to-image evaluation: computing recall for caption 476/500Caption-to-image evaluation: computing recall for caption 477/500Caption-to-image evaluation: computing recall for caption 478/500Caption-to-image evaluation: computing recall for caption 479/500Caption-to-image evaluation: computing recall for caption 480/500Caption-to-image evaluation: computing recall for caption 481/500Caption-to-image evaluation: computing recall for caption 482/500Caption-to-image evaluation: computing recall for caption 483/500Caption-to-image evaluation: computing recall for caption 484/500Caption-to-image evaluation: computing recall for caption 485/500Caption-to-image evaluation: computing recall for caption 486/500Caption-to-image evaluation: computing recall for caption 487/500Caption-to-image evaluation: computing recall for caption 488/500Caption-to-image evaluation: computing recall for caption 489/500Caption-to-image evaluation: computing recall for caption 490/500Caption-to-image evaluation: computing recall for caption 491/500Caption-to-image evaluation: computing recall for caption 492/500Caption-to-image evaluation: computing recall for caption 493/500Caption-to-image evaluation: computing recall for caption 494/500Caption-to-image evaluation: computing recall for caption 495/500Caption-to-image evaluation: computing recall for caption 496/500Caption-to-image evaluation: computing recall for caption 497/500Caption-to-image evaluation: computing recall for caption 498/500Caption-to-image evaluation: computing recall for caption 499/500
+Caption-to-image retrieval results:
+Ranking method: negative_normalized_log_p
+    mean: 2.278000
+    median: 0.000000
+    mean (1-indexed): 3.278000
+    median (1-indexed): 1.000000
+    R@1: 0.530000
+    R@5: 0.872000
+    R@10: 0.948000
+    R@50: 0.998000
+Image-to-caption evaluation: computing recall for image 0/100Image-to-caption evaluation: computing recall for image 1/100Image-to-caption evaluation: computing recall for image 2/100Image-to-caption evaluation: computing recall for image 3/100Image-to-caption evaluation: computing recall for image 4/100Image-to-caption evaluation: computing recall for image 5/100Image-to-caption evaluation: computing recall for image 6/100Image-to-caption evaluation: computing recall for image 7/100Image-to-caption evaluation: computing recall for image 8/100Image-to-caption evaluation: computing recall for image 9/100Image-to-caption evaluation: computing recall for image 10/100Image-to-caption evaluation: computing recall for image 11/100Image-to-caption evaluation: computing recall for image 12/100Image-to-caption evaluation: computing recall for image 13/100Image-to-caption evaluation: computing recall for image 14/100Image-to-caption evaluation: computing recall for image 15/100Image-to-caption evaluation: computing recall for image 16/100Image-to-caption evaluation: computing recall for image 17/100Image-to-caption evaluation: computing recall for image 18/100Image-to-caption evaluation: computing recall for image 19/100Image-to-caption evaluation: computing recall for image 20/100Image-to-caption evaluation: computing recall for image 21/100Image-to-caption evaluation: computing recall for image 22/100Image-to-caption evaluation: computing recall for image 23/100Image-to-caption evaluation: computing recall for image 24/100Image-to-caption evaluation: computing recall for image 25/100Image-to-caption evaluation: computing recall for image 26/100Image-to-caption evaluation: computing recall for image 27/100Image-to-caption evaluation: computing recall for image 28/100Image-to-caption evaluation: computing recall for image 29/100Image-to-caption evaluation: computing recall for image 30/100Image-to-caption evaluation: computing recall for image 31/100Image-to-caption evaluation: computing recall for image 32/100Image-to-caption evaluation: computing recall for image 33/100Image-to-caption evaluation: computing recall for image 34/100Image-to-caption evaluation: computing recall for image 35/100Image-to-caption evaluation: computing recall for image 36/100Image-to-caption evaluation: computing recall for image 37/100Image-to-caption evaluation: computing recall for image 38/100Image-to-caption evaluation: computing recall for image 39/100Image-to-caption evaluation: computing recall for image 40/100Image-to-caption evaluation: computing recall for image 41/100Image-to-caption evaluation: computing recall for image 42/100Image-to-caption evaluation: computing recall for image 43/100Image-to-caption evaluation: computing recall for image 44/100Image-to-caption evaluation: computing recall for image 45/100Image-to-caption evaluation: computing recall for image 46/100Image-to-caption evaluation: computing recall for image 47/100Image-to-caption evaluation: computing recall for image 48/100Image-to-caption evaluation: computing recall for image 49/100Image-to-caption evaluation: computing recall for image 50/100Image-to-caption evaluation: computing recall for image 51/100Image-to-caption evaluation: computing recall for image 52/100Image-to-caption evaluation: computing recall for image 53/100Image-to-caption evaluation: computing recall for image 54/100Image-to-caption evaluation: computing recall for image 55/100Image-to-caption evaluation: computing recall for image 56/100Image-to-caption evaluation: computing recall for image 57/100Image-to-caption evaluation: computing recall for image 58/100Image-to-caption evaluation: computing recall for image 59/100Image-to-caption evaluation: computing recall for image 60/100Image-to-caption evaluation: computing recall for image 61/100Image-to-caption evaluation: computing recall for image 62/100Image-to-caption evaluation: computing recall for image 63/100Image-to-caption evaluation: computing recall for image 64/100Image-to-caption evaluation: computing recall for image 65/100Image-to-caption evaluation: computing recall for image 66/100Image-to-caption evaluation: computing recall for image 67/100Image-to-caption evaluation: computing recall for image 68/100Image-to-caption evaluation: computing recall for image 69/100Image-to-caption evaluation: computing recall for image 70/100Image-to-caption evaluation: computing recall for image 71/100Image-to-caption evaluation: computing recall for image 72/100Image-to-caption evaluation: computing recall for image 73/100Image-to-caption evaluation: computing recall for image 74/100Image-to-caption evaluation: computing recall for image 75/100Image-to-caption evaluation: computing recall for image 76/100Image-to-caption evaluation: computing recall for image 77/100Image-to-caption evaluation: computing recall for image 78/100Image-to-caption evaluation: computing recall for image 79/100Image-to-caption evaluation: computing recall for image 80/100Image-to-caption evaluation: computing recall for image 81/100Image-to-caption evaluation: computing recall for image 82/100Image-to-caption evaluation: computing recall for image 83/100Image-to-caption evaluation: computing recall for image 84/100Image-to-caption evaluation: computing recall for image 85/100Image-to-caption evaluation: computing recall for image 86/100Image-to-caption evaluation: computing recall for image 87/100Image-to-caption evaluation: computing recall for image 88/100Image-to-caption evaluation: computing recall for image 89/100Image-to-caption evaluation: computing recall for image 90/100Image-to-caption evaluation: computing recall for image 91/100Image-to-caption evaluation: computing recall for image 92/100Image-to-caption evaluation: computing recall for image 93/100Image-to-caption evaluation: computing recall for image 94/100Image-to-caption evaluation: computing recall for image 95/100Image-to-caption evaluation: computing recall for image 96/100Image-to-caption evaluation: computing recall for image 97/100Image-to-caption evaluation: computing recall for image 98/100Image-to-caption evaluation: computing recall for image 99/100
+Image-to-caption retrieval results:
+Ranking method: negative_normalized_log_p
+    mean: 2.380000
+    median: 0.000000
+    mean (1-indexed): 3.380000
+    median (1-indexed): 1.000000
+    R@1: 0.650000
+    R@5: 0.870000
+    R@10: 0.920000
+    R@50: 0.990000
